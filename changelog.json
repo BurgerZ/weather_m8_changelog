@@ -4,11 +4,5 @@
         "date": "9 Dec 2024",
         "summary": "• Initial release of the application",
         "details": ""
-    },
-    {
-        "version": "3.0.1",
-        "date": "12 Dec 2024",
-        "summary": "• Changelog List: view version-specific updates.\n• Sun Details: access more Sun-related events.\n• Moon Details: dive deeper into Moon data.\n• Home Screen Widgets: quick access to weather data.",
-        "details": ""
     }
 ]
